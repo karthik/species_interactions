@@ -1,3 +1,4 @@
 # Species Interactions
 
-Tim, if you can see this file, then you've pulled down from the git repo successfully!
+Karthik, it worked.
+I've been scanning other ODA's too. Get back to you soon with some ideas.
